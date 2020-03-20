@@ -1,0 +1,16 @@
+body {
+  background: rgb(16, 17, 19);
+  background: radial-gradient(
+    circle,
+    rgba(16, 17, 19, 1) 0%,
+    rgba(112, 70, 252, 0.9841123949579832) 100%
+  );
+  font-family: "Inconsolata", monospace;
+  color: black;
+}
+
+img {
+  border: 3px solid rgb(7, 1, 1);
+  border-radius: 4px;
+  width: 150px;
+}
