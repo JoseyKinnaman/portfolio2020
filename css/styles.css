@@ -24,3 +24,8 @@ img {
   );
   opacity: 0.5;
 }
+
+.container {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
