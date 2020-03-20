@@ -13,6 +13,9 @@ img {
   border: 2px solid black;
   border-radius: 4px;
   width: 150px;
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 5px;
 }
 
 .jozy {
@@ -51,4 +54,13 @@ footer {
 
 img#robo {
   filter: invert(100%);
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.projects {
+  padding-top: 10px;
+  margin-top: 10px;
 }
