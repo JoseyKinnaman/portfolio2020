@@ -48,3 +48,7 @@ footer {
   width: 400px;
   text-align: center;
 }
+
+img#robo {
+  filter: invert(100%);
+}
